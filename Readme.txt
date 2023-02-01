@@ -1,4 +1,4 @@
-Debit card functionality for ATM
+# Debit card functionality for ATM
 	
 	1) Test cases covered:
 		-Verified 'Added money' functionality only for float and Integer values accepted.
